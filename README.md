@@ -1,11 +1,16 @@
-# 👋 Welcome to My GitHub Profile
+# Hi, I'm Joabe Alves Pereira 👋
 
-## About Me
-Hi! I'm just learning **Markdown** and *customizing* my GitHub profile.
+Welcome to my GitHub profile. Here you will find my projects, studies, and professional practices in technology.
 
-Check out [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) for more tips.
+## Skills 💻
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
 
-<p align="center">
-  <b>This text is bold inside HTML</b><br>
-  <i>And this line is italic using HTML</i>
-</p>
+## Interests 🚀
+- Software Development
+- Artificial Intelligence
+- Web Development
+- Robotics
