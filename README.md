@@ -4,11 +4,11 @@ Welcome to my GitHub profile. Here you will find my projects, studies, and profe
 
 ## Skills 💻
 - AI 
-- Computacional Simulations
+- Computer Simulations
 - Python
 - HTML - CSS - JavaScript
 - POO
-- 
+- Mobile - Flutter
 
 ## Interests 🚀
 - Software Development
