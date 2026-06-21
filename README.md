@@ -15,3 +15,4 @@ Welcome to my GitHub profile. Here you will find my projects, studies, and profe
 - Artificial Intelligence
 - Web Development
 - Robotics
+- Data Analytics
