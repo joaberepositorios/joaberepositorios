@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">I am currently pursuing a degree in Computer Engineering and Artificial Intelligence, a comprehensive program offered by the Federal University of Uberlândia. Since the age of fourteen, I have been working with software, continuously learning and refining my techniques. I have experience in:<br><br>- Python<br>- Web Development<br>- Graphic Design for Animations<br>- Object-Oriented Programming<br>- SQL and Data Analysis<br>- People Management and Executive Management<br>- Isaac Sim and NVIDIA Platforms<br><br>I am currently advancing my skills to contribute to the future growth of robotics and artificial intelligence, as well as addressing other market demands.</p>
+<p data-importer="text" align="left">I am currently pursuing a degree in Computer Engineering and Artificial Intelligence, a comprehensive program offered by the Federal University of Uberlândia. Since the age of fourteen, I have been working with software, continuously learning and refining my techniques. I have experience in:- Graphic Design for Animations<br>- Object-Oriented Programming<br>- SQL and Data Analysis<br>- People Management and Executive Management<br>- Isaac Sim and NVIDIA Platforms<br><br>I am currently advancing my skills to contribute to the future growth of robotics and artificial intelligence, as well as addressing other market demands.</p>
 
 ###
 
