@@ -1,16 +1,16 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="left">👋 What's up?</h1>
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p data-importer="text" align="left">Joabe Alves Pereira, enthusiast of the new era of evolution, and student at the Federal University of Uberlândia 🏆</p>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left">Who is me?</h2>
 
 ###
 
-<h4 data-importer="text" align="left">I am currently pursuing a degree in Computer Engineering and Artificial Intelligence, a comprehensive program offered by the Federal University of Uberlândia. Since the age of fourteen, I have been working with software, continuously learning and refining my techniques. I have experience in:<br><br>- Python<br>- Web Development<br>- Graphic Design for Animations<br>- Object-Oriented Programming<br>- SQL and Data Analysis<br>- People Management and Executive Management<br>- Isaac Sim and NVIDIA Platforms<br><br>I am currently advancing my skills to contribute to the future growth of robotics and artificial intelligence, as well as addressing other market demands.</h4>
+<p data-importer="text" align="left">I am currently pursuing a degree in Computer Engineering and Artificial Intelligence, a comprehensive program offered by the Federal University of Uberlândia. Since the age of fourteen, I have been working with software, continuously learning and refining my techniques. I have experience in:<br><br>- Python<br>- Web Development<br>- Graphic Design for Animations<br>- Object-Oriented Programming<br>- SQL and Data Analysis<br>- People Management and Executive Management<br>- Isaac Sim and NVIDIA Platforms<br><br>I am currently advancing my skills to contribute to the future growth of robotics and artificial intelligence, as well as addressing other market demands.</p>
 
 ###
 
