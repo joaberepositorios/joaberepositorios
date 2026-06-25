@@ -6,7 +6,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Who is me?</h2>
+<h2 data-importer="text" align="left">Me</h2>
 
 ###
 
